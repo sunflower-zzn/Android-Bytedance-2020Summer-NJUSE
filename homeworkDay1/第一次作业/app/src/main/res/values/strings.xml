@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="NJU登录系统">NJU登录系统</string>
+    <string name="登录">登录</string>
+    <string name="请输入手机号">请输入手机号</string>
+    <string name="请输入密码">请输入密码</string>
+    <string name="image">image</string>
+    <string name="显示密码">显示密码</string>
+    <string name="隐藏密码">隐藏密码</string>
+    <string name="登录结果">欢迎你！NJUer</string>
+    <string name="开">开</string>
+    <string name="关">关</string>
+</resources>
