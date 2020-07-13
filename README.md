@@ -33,3 +33,7 @@
 # 第五次作业
 
 - 使用Retrofit完成注册逻辑（调用wanAndroid的接口）
+
+# 第六次作业
+
+- 使用数据库功能实现一个简单的todolistAPP
